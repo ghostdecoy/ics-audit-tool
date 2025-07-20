@@ -71,5 +71,4 @@ try {
     Write-Host "[!] Interactive Logon Banner: Could Not Verify" -ForegroundColor Yellow
 }
 
-# Summary (Optional)
 Write-Host "`n-- End of ICS AD Integration Audit --`n" -ForegroundColor Cyan
