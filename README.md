@@ -10,4 +10,4 @@ Key Checks:
 - RDP NLA
 - Banner notice for login compliance
 
-- Originally built for application-layer ICS defense engineers to use during field assessments and audits.
+Originally built for application-layer ICS defense engineers to use during field assessments and audits.
