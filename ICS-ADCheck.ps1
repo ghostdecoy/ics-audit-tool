@@ -1,6 +1,5 @@
 # ICS-ADCheck.ps1
 # Lightweight Active Directory & Host Control Audit for ICS/OT Workstations
-# Author: [Your Name]
 # Version: 0.1
 
 Write-Host "`nICS AD Integration Health Check" -ForegroundColor Cyan
